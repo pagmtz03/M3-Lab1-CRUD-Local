@@ -9,7 +9,7 @@ const personajesDanganronpaV3 = [
     { id: 1, name: "Shuichi Saihara", talent: "Detective", gender: "Male", height: "171 cm", weight: "58 kg", birthday: "September 7", image: `${imageBasePath}shuichi.jpg` },
     { id: 2, name: "Kaede Akamatsu", talent: "Pianist", gender: "Female", height: "167 cm", weight: "53 kg", birthday: "March 26", image: `${imageBasePath}kaede.jpg` },
     { id: 3, name: "Kaito Momota", talent: "Astronaut", gender: "Male", height: "184 cm", weight: "74 kg", birthday: "April 12", image: `${imageBasePath}kaito.jpg` },
-    { id: 4, name: "Maki Harukawa", talent: "Assassin", gender: "Female", height: "162 cm", weight: "44 kg", birthday: "February 2", image: `${imageBasePath}maki.jpg` },
+    { id: 4, name: "Maki Harukawa", talent: "Child Caregiver", gender: "Female", height: "162 cm", weight: "44 kg", birthday: "February 2", image: `${imageBasePath}maki.jpg` },
     { id: 5, name: "Kokichi Oma", talent: "Supreme Leader", gender: "Male", height: "156 cm", weight: "44 kg", birthday: "June 21", image: `${imageBasePath}kokichi.jpg` },
     { id: 6, name: "Himiko Yumeno", talent: "Magician", gender: "Female", height: "150 cm", weight: "39 kg", birthday: "December 3", image: `${imageBasePath}himiko.jpg` },
     { id: 7, name: "K1-B0", talent: "Robot", gender: "None", height: "160 cm", weight: "89 kg", birthday: "October 29", image: `${imageBasePath}keebo.jpg` },
